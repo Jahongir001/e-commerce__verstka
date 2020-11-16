@@ -1,1 +1,2 @@
 oktyabr 2020
+git pull buyrugi orqali uzgartirish
